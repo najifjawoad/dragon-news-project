@@ -23,7 +23,7 @@ const CategoryNews = () => {
     }
   }, [id, data]);
 
-  // console.log(id, data);
+ 
 
   return (
     <div>
